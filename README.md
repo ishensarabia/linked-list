@@ -1,2 +1,2 @@
 # linked-list
-A linked list written in JS
+A linked list written in JavaScript
