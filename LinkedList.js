@@ -91,7 +91,7 @@ class LinkedList {
     result += "null";
     return result;
   }
-  insertAt(value, index) {
+  insertAt(index, value) {
     if (index < 0 || index > this.length) {
       return;
     }
